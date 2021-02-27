@@ -1,0 +1,138 @@
+body{
+	
+	font-family: 'Raleway', sans-serif;
+}
+
+.big-wapper{
+	background-image: url("../imagee/dd.jpg");
+	height: 400px;
+	width: 100%;
+}
+
+#rebel{
+	position: relative;
+	background: none;
+	margin: 45px;
+	color: white;
+	
+}
+
+#rebel a{
+	color: white;
+}
+
+
+#mynavigation a{
+	color: white;
+
+	
+}
+
+.banner{
+	position: relative;
+	color: white;
+	text-align: center;
+	margin-top: 120px;
+}
+
+.main{
+	margin-top: 30px;
+	position: relative;
+	padding: 30px;
+
+}
+
+.main h3{
+	color: #5385c1;
+	line-height: 30px;
+	font-size: 25px;
+}
+
+.main p{
+	line-height: 28px;
+
+}
+
+.add-border{
+	border-left :  1px solid gray;
+	border-right: 1px solid gray;
+	padding: 30px;
+
+}
+
+.my-button{
+	background-color: #5385c1
+	width:100%;
+	height: 25px;
+	color: white;
+	background-color: #5385c1;
+	border: 0;
+	margin-top: 25px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+.full-fix{
+	background-color: lightblue;
+	margin-top: 80px;
+	padding-top: 60px;
+	padding-bottom: 80px;
+}
+
+.person{
+	border: 1px solid #dbdbdb;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.tow-person{
+	margin-top: 80px;
+}
+
+.section1 img , .section2 img{
+	margin-top: 30px;
+	width: 100%;
+}
+
+.section1{
+	padding-right: 20px;
+}
+
+.section2{
+	padding-left: 20px;
+}
+
+.section1 , .section2 h1{
+ color: #5385c1;
+
+}
+
+.fotter{
+	margin-top: 30px;
+	border-top: 1px solid #dbdbdb;
+}
+
+
+.fott{
+	margin-top: 30px;
+
+}
+
+.fott span{
+	padding: 10px;
+	font-size: 15px;
+	color: #5385c1;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.fott p{
+	padding: 15px;
+
+}
+
+
+
+
+
+
